@@ -16,6 +16,9 @@ This repository contains my solutions to various DSA problems from different cod
 - C++
 - Python (as I continue learning)
 
+## LeetCode Stats
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=OP_1&theme=github_dark)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
+
 ## Topics Covered
 
 - Arrays
